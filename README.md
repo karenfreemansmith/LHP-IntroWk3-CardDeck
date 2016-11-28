@@ -1,19 +1,19 @@
-# :cards: [Deck of Cards](http://karenfreemansmith.github.io/carddeck)
-![project screenshot](/img/screenshot.jpg)
+# Deck of Cards
+Version 0.0.1: April 12, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
-__Version 1: April 12, 2016__
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
+### Technologies Used
+HTML, CSS, Bootstrap, JavaScript, jQuery
 
-### Description
-__*Webpage that uses nested forEach loops to build a deck of cards.*__
+![screenshot of project running](screenshot.png)
 
-## Technologies Used
-HTML, CSS
+## Description
+*[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 3 Individual Project: A script that builds a deck of cards and prints them out on a webpage.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk3-CardDeck)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
